@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # @Time   : 2018/1/18 19:36
-from handle_string import HandleString
+from src.handle_string import HandleString
 
 
 class CaptureSignal():
